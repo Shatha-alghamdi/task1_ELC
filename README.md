@@ -45,3 +45,6 @@
 والـ Servo 6 قمت بتوصيله في الـPins رقم7  
 
 بعد ماقمت بتوصيل الدائرة كاملة ، قمت بكتابة كود حتى أتمكن من تشغيل الدائرة..
+
+## وهنا رابط الدائره
+https://www.tinkercad.com/things/k0wTrWIQSXc-copy-of-multi-servo-motors-with-potentiometers/editel
